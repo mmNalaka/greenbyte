@@ -3,7 +3,7 @@
   "displayName": "Greenbyte",
   "description": "VS Code dark theme ",
   "publisher": "mmnalaka",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.100.0"
   },
