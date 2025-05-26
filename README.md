@@ -66,12 +66,6 @@ To further enhance your experience with Greenbyte, consider adding these to your
 
 Greenbyte is brought to you by **mmnalaka**.
 
-## License
-
-This theme is typically licensed under the MIT License.
-**(Please add a `LICENSE` file to your project and update this section, or specify your chosen license. For example: `[MIT License](./LICENSE)`)**
-
----
 
 Thank you for choosing Greenbyte! We hope it enhances your coding workflow. 💚
 If you enjoy this theme, please consider leaving a rating or review on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=mmnalaka.greenbyte).
