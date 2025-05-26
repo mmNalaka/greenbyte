@@ -10,9 +10,6 @@ Greenbyte is a sleek and modern dark theme for Visual Studio Code. Published by 
 
 **(It's highly recommended to replace the placeholder below with actual screenshots of your theme in action!)**
 
-*Example: A Python file with the Greenbyte theme*
-![Greenbyte Theme Preview](https://via.placeholder.com/800x400.png?text=Greenbyte+Theme+Preview+Here)
-*(To add your screenshot: 1. Take a screenshot. 2. Add it to your project (e.g., in an `images` folder). 3. Update the link above, e.g., `![Greenbyte Theme Preview](./images/screenshot.png)`)*
 
 ## Features
 
