@@ -2,12 +2,19 @@
   "name": "greenbyte",
   "displayName": "Greenbyte",
   "description": "VS Code dark theme ",
+  "publisher": "mmnalaka",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.100.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "color theme",
+    "greenbyte",
+    "mmnalaka"
   ],
   "contributes": {
     "themes": [
